@@ -18,4 +18,4 @@ Este repositorio contiene los scripts de adquisición de las señales, procesami
 * `Modelo3D.py`: Script de visualización 3D e integración de la cinemática.
 
 ### Código QR del Repositorio
-![Código QR](https://chart.googleapis.com/chart?chs=200x200&cht=qr&chl=https://github.com/Jannie23/Plataforma_analisis_biomecanico)
+![Código QR](https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=https://github.com/Jannie23/Plataforma_analisis_biomecanico)
