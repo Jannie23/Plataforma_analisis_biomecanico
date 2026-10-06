@@ -16,3 +16,6 @@ Este repositorio contiene los scripts de adquisición de las señales, procesami
 ### 3. Servidor y Modelo 3D (Python)
 * `ServidorFlask.py`: Servidor web local en Flask encargado de recibir los datos en tiempo y gestionarlos.
 * `Modelo3D.py`: Script de visualización 3D e integración de la cinemática.
+
+### Código QR del Repositorio
+![Código QR](https://chart.googleapis.com/chart?chs=200x200&cht=qr&chl=https://github.com/Jannie23/Plataforma_analisis_biomecanico)
